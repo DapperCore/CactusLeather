@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "cactusleather",
+  "version": "${version}",
+
+  "name": "Cactus Leather",
+  "description": "A simple mod that adds in a more sustainable alternative to standard leather",
+  "authors": [
+    "Dapper Core"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/cactusleather/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+  "main": [
+    "dappercore.cactusleather.CactusLeather"
+  ]
+},
+"mixins": [
+],
+
+"depends": {
+"fabricloader": ">=0.7.4",
+"fabric": "*",
+"minecraft": "1.16.x"
+},
+"suggests": {
+    "flamingo": "*"
+  }
+}

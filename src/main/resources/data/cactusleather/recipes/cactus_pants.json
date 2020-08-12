@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "cactusleather:cactus_leather"
+    }
+  },
+  "result": {
+    "item": "cactusleather:cactus_pants",
+    "count": 1
+  }
+}

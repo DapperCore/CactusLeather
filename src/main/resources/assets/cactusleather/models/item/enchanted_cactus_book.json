@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cactusleather:items/enchanted_cactus_book"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "additions": [
+    "cactusleather:cactus_leather"
+  ],
+  "targets": [
+    "minecraft:leather"
+  ],
+  "recipes": {
+    "ids": [
+      "/(?!minecraft:leather_(boots|chestplate|helmet|leggings)).*/"
+    ]
+  }
+}
